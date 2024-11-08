@@ -49,10 +49,11 @@ Basic UI/UX design principles
 The importance of data privacy
 
 Team 👥
-Ankit kumar
-Rishabh pandey
-Anuj rewar
+Ankit kumar,
+Rishabh pandey,
+Anuj rewar,
 
 Thanks to 🙏
 XposedOrNot for their awesome API
 Our mentors who helped us along the way
+god krishna for their blessing
