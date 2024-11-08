@@ -26,10 +26,6 @@ No fancy frameworks or libraries - just pure vanilla code!
 
 ## Try it out! 🚀
 
-1. Clone this repo:
-
-git clone https://github.com/Amanthink/email-breach-checker
-
 Open index.html in your browser
 Enter any email address
 Click "Check Email"
