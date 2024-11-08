@@ -46,7 +46,7 @@ The importance of data privacy
 
 Team 👥
 Ankit kumar,
-Rishabh pandey,
+Rishabh Pandey,
 Anuj rewar,
 Aman chahar.
 
